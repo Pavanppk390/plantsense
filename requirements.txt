@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+torch
+tensorflow
+optuna
+langgraph
+langchain
+langchain-core
+langchain-google-genai
+google-genai
+sentence-transformers
+chromadb
+streamlit
+pydantic
