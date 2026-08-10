@@ -1,0 +1,722 @@
+[
+  {
+    "log_id": "ML-0001",
+    "unit": "Engine Unit 47 (Turbofan)",
+    "date": "2024-03-14",
+    "reported_issue": "Elevated vibration near LP shaft bearing (station 2.5). Vibration reading 7.2 mm/s, up from baseline 3.1 mm/s over past 48 hrs of operation.",
+    "root_cause": "Lubrication degradation \u2014 oil sample showed particulate contamination above threshold, consistent with bearing wear onset.",
+    "action_taken": "Engine pulled from service, bearing inspected, lubricant flushed and replaced, oil re-sampled post-service.",
+    "resolution_time": "6 hrs downtime, engine returned to service same day.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0002",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-05-18",
+    "reported_issue": "High-pressure compressor (HPC) stage 4 blade temperature anomaly. Exhaust gas temperature (EGT) spiked by 45\u00b0C during takeoff climb.",
+    "root_cause": "Thermal barrier coating (TBC) spallation on the stage 4 rotor blades, leading to localized overheating.",
+    "action_taken": "Conducted borescope inspection, verified coating loss, swapped engine unit with spare, sent affected unit to overhaul facility.",
+    "resolution_time": "14 hrs downtime for engine swap, unit scheduled for shop visit.",
+    "subsystem": "hpc"
+  },
+  {
+    "log_id": "ML-0003",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-06-02",
+    "reported_issue": "Sudden thrust asymmetric warning accompanied by acoustic thud and transient fan speed (N1) fluctuation.",
+    "root_cause": "Foreign Object Damage (FOD) \u2014 ingestion of a medium-sized bird during low-altitude approach, causing a minor dent on two titanium fan blades.",
+    "action_taken": "Performed fan blade blending within maintenance manual limits, executed ultrasonic non-destructive testing (NDT) to check for micro-cracks.",
+    "resolution_time": "8 hrs downtime, cleared for flight.",
+    "subsystem": "edge_case"
+  },
+  {
+    "log_id": "ML-0004",
+    "unit": "Engine Unit 33 (Turbofan)",
+    "date": "2026-06-25",
+    "reported_issue": "Low-pressure turbine (LPT) casing showing acoustic anomalies. Active clearance control (ACC) valve system fault code triggered.",
+    "root_cause": "Mechanical binding in the ACC actuator linkage due to carbon soot buildup, preventing proper valve modulation.",
+    "action_taken": "Cleaned actuator linkage, replaced defective seal rings, executed automated subsystem self-test cycle.",
+    "resolution_time": "3.5 hrs downtime, system verified fully functional.",
+    "subsystem": "lpt_hpt"
+  },
+  {
+    "log_id": "ML-0005",
+    "unit": "Engine Unit 55 (Turbofan)",
+    "date": "2026-07-14",
+    "reported_issue": "Oil pressure drop below nominal operating limit (32 psi vs baseline 45 psi) during steady-state cruise monitoring.",
+    "root_cause": "Main oil pump pressure relief valve spring fatigue, causing the valve to unseat prematurely.",
+    "action_taken": "Replaced the pressure relief valve assembly, flushed the secondary oil loop, verified stable pressure at 46 psi during ground run.",
+    "resolution_time": "5 hrs downtime, engine cleared for flight operations.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0006",
+    "unit": "Engine Unit 21 (Turbofan)",
+    "date": "2026-08-01",
+    "reported_issue": "Intermittent digital engine control (FADEC) channel B data bus communication faults during pre-flight checks.",
+    "root_cause": "Moisture ingress into the main electrical wiring harness connector receptacle at the fan case interface.",
+    "action_taken": "Disconnected harness, purged moisture using electronic cleaner, replaced interfacial connector seal, completed full FADEC cross-channel diagnostic loop.",
+    "resolution_time": "2.5 hrs downtime, cleared for scheduled departure.",
+    "subsystem": "edge_case"
+  },
+  {
+    "log_id": "ML-0007",
+    "unit": "Engine Unit 64 (Turbofan)",
+    "date": "2026-08-08",
+    "reported_issue": "Progressive divergence in the High-Pressure Compressor (HPC) pressure ratio vs. core speed (N2) line. Exhaust Gas Temperature (EGT) margin showing a steady -0.15\u00b0C/hour downward drift over the last 150 flight cycles.",
+    "root_cause": "Continuous fouling and surface roughness accumulation on the HPC rotor blades, reducing aerodynamic efficiency and increasing fuel flow requirements.",
+    "action_taken": "Scheduled the unit for an engine core detergent wash to remove aerodynamic deposits; verified restoration of baseline pressure ratios during post-wash ground run.",
+    "resolution_time": "4 hrs downtime, performance metrics restored to nominal parameters.",
+    "subsystem": "hpc"
+  },
+  {
+    "log_id": "ML-0008",
+    "unit": "Engine Unit 19 (Turbofan)",
+    "date": "2026-08-10",
+    "reported_issue": "Monotonic upward drift in the cooling air temperature-to-ambient ratio at the High-Pressure Turbine (HPT) case, accompanied by a subtle, compounding drop in low-pressure-to-high-pressure spool speed ratio (N1/N2).",
+    "root_cause": "Accelerated internal seal erosion and opening of blade tip clearances within the HPT stage, causing gradual hot gas migration.",
+    "action_taken": "Flagged by predictive model for early removal; pulled engine for targeted turbine module overhaul before reaching critical EGT redline.",
+    "resolution_time": "16 hrs downtime for engine replacement, unit routed to heavy maintenance.",
+    "subsystem": "lpt_hpt"
+  },
+  {
+    "log_id": "ML-0009",
+    "unit": "Engine Unit 02 (Turbofan)",
+    "date": "2026-08-12",
+    "reported_issue": "Gradual deterioration of the Low-Pressure Turbine (LPT) efficiency metrics. Over the last 45 flights, the LPT exit temperature (T50) sensor has exhibited a monotonic upward drift, while the core speed ratio (N2/N1) shifted downward by 1.8% under identical cruise flight conditions.",
+    "root_cause": "High-pressure gas path degradation and trailing-edge erosion of the LPT stator vanes, causing reduced enthalpy extraction and subsequent downstream thermal buildup.",
+    "action_taken": "Pulled engine based on remaining useful life (RUL) threshold alert; routed the unit to the shop for a dedicated LPT module overhaul and vane replacement.",
+    "resolution_time": "14 hrs downtime for engine swap, unit transferred to heavy maintenance.",
+    "subsystem": "lpt_hpt"
+  },
+  {
+    "log_id": "ML-0010",
+    "unit": "Engine Unit 15 (Turbofan)",
+    "date": "2026-08-15",
+    "reported_issue": "Progressive degradation of the High-Pressure Compressor (HPC) performance envelope. The total pressure at the HPC outlet (P30) showed a steady 2.4% drop over 60 flight cycles, accompanied by a corresponding upward trend in fuel flow (W36) to maintain target thrust.",
+    "root_cause": "HPC seal degradation and blade tip clearance increase due to long-term cyclic thermal expansion and mechanical wear.",
+    "action_taken": "Removed engine from service prior to predicted stall-margin breach; replaced HPC abradable seals and restored nominal clearances.",
+    "resolution_time": "18 hrs downtime, unit returned to service after test-cell verification.",
+    "subsystem": "hpc"
+  },
+  {
+    "log_id": "ML-0011",
+    "unit": "Engine Unit 38 (Turbofan)",
+    "date": "2026-08-19",
+    "reported_issue": "Accelerated upward drift in the High-Pressure Turbine (HPT) blade temperature indices. The ratio of HPC outlet pressure to bypass duct pressure (P30/P15) slipped below the lower control limit, signaling a loss of core compressor efficiency.",
+    "root_cause": "Accumulation of environmental particulate and dirt on the HPT nozzle guide vanes, choking the cooling holes and inducing a gradual thermal penalty.",
+    "action_taken": "Conducted a comprehensive eco-power engine wash cycle; verified restoration of the pressure ratio and reduction of the core temperature baseline during ground run-up.",
+    "resolution_time": "4.5 hrs downtime, cleared for flight operations.",
+    "subsystem": "lpt_hpt"
+  },
+  {
+    "log_id": "ML-0012",
+    "unit": "Engine Unit 07 (Turbofan)",
+    "date": "2026-08-22",
+    "reported_issue": "Creeping upward trend in static pressure at the HP compressor inlet (Ps30) alongside an increase in the ratio of fuel flow to static pressure. The predictive model calculated an accelerated decline in the remaining useful life (RUL) curve over the past 30 operating hours.",
+    "root_cause": "High-pressure compressor blade surface fouling and roughness development, impairing the stage aerodynamic pressure coefficient.",
+    "action_taken": "Performed a targeted multi-stage chemical wash of the compressor gas path; confirmed sensor trends reverted back to nominal baseline levels.",
+    "resolution_time": "5 hrs downtime, returned to scheduled flight roster.",
+    "subsystem": "hpc"
+  },
+  {
+    "log_id": "ML-0013",
+    "unit": "Engine Unit 51 (Turbofan)",
+    "date": "2026-08-25",
+    "reported_issue": "Distinct downward drift in the Fan efficiency tracking parameters. The total temperature at the fan inlet (T24) to bypass pressure ratio (P15) showed a compounding divergence over the last 80 cycles, accompanied by a subtle rise in low-pressure spool speed (N1).",
+    "root_cause": "Fan blade leading-edge micro-pitting and surface erosion from long-term atmospheric particulate exposure, distorting the intake boundary layer flow.",
+    "action_taken": "Executed a precision on-wing fan blade re-contouring and blending procedure; verified restoration of ideal bypass aerodynamic profiles.",
+    "resolution_time": "6 hrs downtime, engine cleared for departure.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0014",
+    "unit": "Engine Unit 29 (Turbofan)",
+    "date": "2026-08-28",
+    "reported_issue": "Steady degradation of the engine bypass ratio profile. Sensor telemetry indicated a persistent, compounding increase in total temperature at the HPC outlet (T30) relative to core speed (N2), combined with an elevated bleed-air temperature reading.",
+    "root_cause": "Failure and gradual structural degradation of the internal compressor stator seals, leading to parasitic hot-gas recycling into the secondary cooling paths.",
+    "action_taken": "Pre-emptively pulled the engine for module disassembly; replaced worn labyrinth seals and refreshed the compressor stator assemblies.",
+    "resolution_time": "16 hrs downtime for scheduled engine swap, core unit sent to shop.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0015",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-02-18",
+    "reported_issue": "Gradual increase in oil scavenge temperature at the HP turbine bearing cavity, exceeding the 120C nominal threshold during high-thrust climb phases.",
+    "root_cause": "Carbon varnish buildup inside the scavenge tube orifice, restricting the return flow rate of the lubricating oil and causing localized thermal pooling.",
+    "action_taken": "Cleared the scavenge line using chemical solvent flush, replaced the carbon seals at the aft bearing chamber, and verified normal thermal dissipation during a 45-minute ground run.",
+    "resolution_time": "8.5 hours downtime, engine returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0016",
+    "unit": "Engine Unit 34 (Turbofan)",
+    "date": "2026-04-05",
+    "reported_issue": "Subtle, progressive upward drift in Nc (N2) rotor vibration amplitudes accompanied by a 5% increase in oil filter differential pressure over 120 flight cycles.",
+    "root_cause": "Spalling of the inner race on the No. 3 ball bearing due to localized micro-fatigue, releasing fine metallic particulates into the primary oil circuit.",
+    "action_taken": "Replaced the No. 3 bearing assembly, flushed the entire main lube loop, installed a new oil filter element, and confirmed vibration levels returned to baseline.",
+    "resolution_time": "14 hours downtime, engine cleared for flight operations.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0017",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-05-22",
+    "reported_issue": "Slight but persistent drop in oil pressure at high core speeds (Nc/N2 above 95%), accompanied by an increase in oil foaming observed in the sight glass.",
+    "root_cause": "Degradation of the oil tank deaerator screen, which allowed entrained air bubbles to recirculate back into the main oil feed pump, causing minor cavitation.",
+    "action_taken": "Replaced the tank deaerator assembly, drained and replaced the MIL-PRF-23699 synthetic turbine oil, and verified stable pump output pressure.",
+    "resolution_time": "4 hours downtime, engine released to flight line.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0018",
+    "unit": "Engine Unit 03 (Turbofan)",
+    "date": "2026-07-11",
+    "reported_issue": "Slow, monotonic rise in the bearing oil-to-fuel heat exchanger exit temperature, leading to a marginal increase in overall T30 (HP compressor discharge) thermal profiles.",
+    "root_cause": "Internal fouling and particulate scaling within the heat exchanger core tubes, reducing heat transfer efficiency between the hot oil and the cooling fuel.",
+    "action_taken": "Back-flushed the heat exchanger unit, performed ultrasonic cleaning of the core, replaced interface gaskets, and validated thermal transfer metrics.",
+    "resolution_time": "7 hours downtime, engine returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0019",
+    "unit": "Engine Unit 67 (Turbofan)",
+    "date": "2026-08-29",
+    "reported_issue": "Step-change increase in magnetic chip detector (MCD) warning frequency over a 30-day operating window, paired with elevated Nf (N1) shaft jitter.",
+    "root_cause": "Accelerated wear of the No. 1 fan shaft roller bearing cage, resulting in high concentrations of ferromagnetic debris collecting on the magnetic plugs.",
+    "action_taken": "Pulled the forward fan module, replaced the No. 1 bearing and seal runner assemblies, thoroughly cleaned the oil sump area, and verified zero debris on post-run inspection.",
+    "resolution_time": "18 hours downtime, engine cleared and returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0020",
+    "unit": "Engine Unit 42 (Turbofan)",
+    "date": "2026-10-14",
+    "reported_issue": "Gradual deterioration of oil pressure stability during transient deceleration phases, dropping to near-minimum limits before stabilizing.",
+    "root_cause": "Worn clearance tolerances in the main oil pump gerotor gears, allowing internal leakage/slip when oil viscosity decreases at high operating temperatures.",
+    "action_taken": "Removed and replaced the integrated lube and scavenge pump module, replaced the main oil filter, and conducted full hydraulic calibration sweep.",
+    "resolution_time": "9 hours downtime, engine returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0021",
+    "unit": "Engine Unit 78 (Turbofan)",
+    "date": "2026-11-03",
+    "reported_issue": "Minor oil consumption increase exceeding the allowable 0.3 quarts per hour limit, noted during routine daily service checks over a two-week period.",
+    "root_cause": "Erosion of the carbon face seal in the No. 4 bearing chamber, allowing oil to weep into the low-pressure turbine gas path and burn off.",
+    "action_taken": "Replaced the No. 4 carbon seal assembly, inspected adjacent turbine rotor stages for oil wetting, cleaned the buffer air line, and verified zero leakage under pressure.",
+    "resolution_time": "11 hours downtime, engine cleared for flight.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0022",
+    "unit": "Engine Unit 15 (Turbofan)",
+    "date": "2026-12-19",
+    "reported_issue": "Abnormal delta between the bearing oil inlet temperature and outlet scavenge temperature (delta-T exceeding 45C) during ground idle runs.",
+    "root_cause": "Partial blockage in the oil supply nozzle jet for the No. 2 bearing, limiting the volumetric oil flow rate available to cool the bearing assembly.",
+    "action_taken": "Disassembled the local oil manifold, cleared the restricted supply jet nozzle, verified clean spray pattern, and reassembled with new seals.",
+    "resolution_time": "6.5 hours downtime, engine returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0023",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-01-18",
+    "reported_issue": "Subtle, gradual upward drift in turbine rear bearing oil discharge temperature (T48) from 185C to 215C over 120 flight cycles.",
+    "root_cause": "Carbonaceous varnish buildup inside the scavenge tube restriction orifice, restricting oil flow rate through the bearing housing.",
+    "action_taken": "Cleared scavenge line obstruction via chemical flushing, replaced the affected oil return fitting, and confirmed discharge temperature returned to 182C.",
+    "resolution_time": "8 hours downtime, engine approved for return to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0024",
+    "unit": "Engine Unit 31 (Turbofan)",
+    "date": "2026-03-05",
+    "reported_issue": "Slight but persistent decay in N1 rotor speed stability and concurrent 5% increase in lubricating oil feed pressure during cold-start cycles.",
+    "root_cause": "Micro-spalling on the inner race of the No. 1 fan shaft ball bearing, creating localized rotational resistance and micro-shavings in the sump.",
+    "action_taken": "Borescope inspected the bearing assembly, flushed the main lubrication gallery, and replaced the No. 1 bearing and its front carbon seal.",
+    "resolution_time": "14 hours downtime, engine cleared for scheduled flight routing.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0025",
+    "unit": "Engine Unit 78 (Turbofan)",
+    "date": "2026-04-22",
+    "reported_issue": "Gradual increase in metallic chip detector count readings on the accessory gearbox circuit, accumulating 3 counts over a 45-hour operating interval.",
+    "root_cause": "Fatigue-induced pitting on the accessory drive shaft roller bearing rollers due to oil film thinning under extreme ambient thermal conditions.",
+    "action_taken": "Replaced the accessory gearbox bearing pack, drained and replaced the MIL-PRF-23699 turbine oil, and verified a clean chip detector signal after a 30-minute test run.",
+    "resolution_time": "9 hours downtime, engine returned to active service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0026",
+    "unit": "Engine Unit 04 (Turbofan)",
+    "date": "2026-06-11",
+    "reported_issue": "A progressive 12% rise in oil consumption rate observed over a 15-day monitoring period, accompanied by trace oil smell in the cabin air ducting.",
+    "root_cause": "Degradation of the No. 3 compressor rotor bearing labyrinth seal, allowing high-pressure cabin bleed air to pressurize the bearing sump and push oil past the carbon face seal.",
+    "action_taken": "Replaced the carbon face seal assembly and the rear labyrinth seal element, and cleaned the compressor discharge chamber.",
+    "resolution_time": "18 hours downtime, engine cleared for service after oil consumption stabilized.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0027",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-07-29",
+    "reported_issue": "Gradual divergence of the N2 rotor speed relative to fuel flow, coupled with an incremental increase in oil filter differential pressure transducer readings (Delta-P up by 8 psi).",
+    "root_cause": "High-pressure turbine bearing oil feed filter bypass valve leaking due to debris accumulation, allowing unfiltered oil to enter the bearing cavity.",
+    "action_taken": "Replaced the main oil filter element, cleaned the bypass valve seat, and executed a hot-oil flush of the entire turbine lubrication system.",
+    "resolution_time": "5 hours downtime, engine approved for dispatch.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0028",
+    "unit": "Engine Unit 42 (Turbofan)",
+    "date": "2026-09-03",
+    "reported_issue": "Slow, upward creep in HP compressor rotor bearing temperature (T30 equivalent cavity probe) exceeding nominal baseline by 18C during cruise power settings.",
+    "root_cause": "Partial block in the oil nozzle jet orifice supplying the No. 4 damper bearing, reducing localized cooling mist efficiency.",
+    "action_taken": "Ultrasonically cleaned the oil feed nozzles, replaced the supply tube gasket, and verified symmetric oil spray pattern and nominal temperatures.",
+    "resolution_time": "7.5 hours downtime, engine returned to service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0029",
+    "unit": "Engine Unit 63 (Turbofan)",
+    "date": "2026-10-14",
+    "reported_issue": "Increasing trend in high-frequency acoustic emissions and vibration levels (0.12 ips to 0.38 ips) at the mid-turbine frame bearing housing (station 4.5).",
+    "root_cause": "Slight misalignment of the oil scavenge pump drive gear causing mechanical vibration and oil aeration within the bearing sump housing.",
+    "action_taken": "Realigned the scavenge pump drive gear, replaced the associated splined coupling, and verified vibration levels returned below 0.15 ips.",
+    "resolution_time": "11 hours downtime, engine certified for flight.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0030",
+    "unit": "Engine Unit 15 (Turbofan)",
+    "date": "2026-12-05",
+    "reported_issue": "Gradual degradation of lubricating oil viscosity index on scheduled weekly spectrometric oil analysis program (SOAP) samples.",
+    "root_cause": "Thermal distress in the fuel-oil heat exchanger allowing localized fuel migration across a micro-fissure into the oil circuit, thinning the lubricant.",
+    "action_taken": "Replaced the fuel-oil heat exchanger unit, performed a dual oil system flush, and verified zero fuel dilution in post-run oil samples.",
+    "resolution_time": "10 hours downtime, engine returned to service with clean SOAP status.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0031",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-02-18",
+    "reported_issue": "Gradual increase in oil scavenge temperature at the rear turbine bearing cavity (station 4.5), climbing from 115C to 132C over 120 flight cycles.",
+    "root_cause": "Carbon buildup and coke deposits in the scavenge tube restriction orifice, narrowing the return pathway and causing hot oil retention.",
+    "action_taken": "Back-flushed the scavenge line with chemical solvent, mechanically cleared the carbon deposits from the restriction orifice, and replaced the scavenge line gaskets.",
+    "resolution_time": "8.5 hrs downtime, system cleared after hot-start thermal stabilization test.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0032",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-04-05",
+    "reported_issue": "N2 shaft speed fluctuation (0.8% amplitude variance) detected by Nc sensor alongside a creeping micro-vibration trend in the mid-compressor bearing.",
+    "root_cause": "Localized thermal distress in the roller bearing race due to localized starvation from a partially clogged oil jet nozzle.",
+    "action_taken": "Borescope inspected the mid-compressor bearing cavity, replaced the clogged oil jet assembly, and performed a complete synthetic lubricant changeout.",
+    "resolution_time": "12 hrs downtime, engine returned to full flight status.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0033",
+    "unit": "Engine Unit 03 (Turbofan)",
+    "date": "2026-06-22",
+    "reported_issue": "Elevated magnetic chip detector (MCD) counts during routine 150-hour inspection, paired with a subtle, long-term rise in T24 air temperature near the compressor hub.",
+    "root_cause": "Surface fatigue and spalling on the inner race of the No. 2 main bearing, resulting in fine metallic particles entering the oil stream.",
+    "action_taken": "Pulled the engine, disassembled the compressor section to access the bearing module, replaced the No. 2 bearing assembly, and flushed the entire lubrication loop.",
+    "resolution_time": "36 hrs downtime, engine successfully re-installed and validated via test cell run.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0034",
+    "unit": "Engine Unit 64 (Turbofan)",
+    "date": "2026-08-11",
+    "reported_issue": "Slight but persistent drop in main oil pressure (from 48 psi to 41 psi) over 3 weeks, accompanied by minor foaming observed in the oil tank site glass.",
+    "root_cause": "Degraded main oil tank static seal allowing micro-ingress of ambient air, causing oil aeration and reduced volumetric efficiency of the supply pump.",
+    "action_taken": "Replaced the oil tank cap seal and the main pressure pump shaft face seal, then replenished the oil reservoir with fresh Mil-PRF-23699 fluid.",
+    "resolution_time": "4 hrs downtime, pressure stabilized at 47 psi during ground idle run.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0035",
+    "unit": "Engine Unit 37 (Turbofan)",
+    "date": "2026-10-03",
+    "reported_issue": "High oil consumption rate exceeding nominal limit (0.4 quarts/hour vs 0.1 baseline) coupled with a steady increase in T30 temperature readings.",
+    "root_cause": "Erosion of the carbon face seal in the No. 3 bearing cavity, allowing high-pressure compressor discharge air to leak into the oil sump.",
+    "action_taken": "Replaced the carbon seal assembly and the mating runner, checked the oil filter element for carbon debris, and verified seal integrity with a static pressure test.",
+    "resolution_time": "14 hrs downtime, engine cleared for revenue service.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0036",
+    "unit": "Engine Unit 76 (Turbofan)",
+    "date": "2026-12-15",
+    "reported_issue": "Vibration levels on the N1 shaft (Nf speed sensor) rising from 1.2 to 2.8 mils, occurring in tandem with an elevated heat load across the oil cooler assembly.",
+    "root_cause": "Partial blockages in the air-cooled oil cooler (ACOC) matrix passages, leading to elevated oil inlet temperatures and reduced viscosity at the fan hub bearing.",
+    "action_taken": "Replaced the oil cooler unit, performed a back-flush of the fan frame oil supply lines, and validated oil viscosity and temperature profiles under simulated load.",
+    "resolution_time": "7.5 hrs downtime, returned to service with vibration levels normalized to 1.1 mils.",
+    "subsystem": "bearing_lubrication"
+  },
+  {
+    "log_id": "ML-0037",
+    "unit": "Engine Unit 14 (Turbofan)",
+    "date": "2026-03-12",
+    "reported_issue": "A gradual upward trend in low-pressure rotor speed (N1) relative to total temperature at the fan exit (T24), slowly progressing over the past 120 flights with minor acoustic humming reported in the flight deck.",
+    "root_cause": "Slight degradation of the fan blade tip shrouds, leading to localized aerodynamic leakage and a reduction in stage compression efficiency.",
+    "action_taken": "Replaced the worn fan blade sets with matched-weight assemblies and performed a high-precision dynamic spin balance.",
+    "resolution_time": "8 hrs downtime, engine returned to active service.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0038",
+    "unit": "Engine Unit 33 (Turbofan)",
+    "date": "2026-04-19",
+    "reported_issue": "A sustained, incremental increase in the fan inlet temperature (T2) delta combined with a subtle downward drift in the bypass pressure ratio (EPR/P15) over 95 operating cycles.",
+    "root_cause": "Accumulation of atmospheric salts and industrial pollutants on the fan blade suction surfaces, increasing surface roughness and boundary layer thickness.",
+    "action_taken": "Performed a comprehensive multi-stage chemical wash of the fan blades and validated aerodynamic recovery via ground run-up.",
+    "resolution_time": "4 hrs downtime, engine released without restrictions.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0039",
+    "unit": "Engine Unit 08 (Turbofan)",
+    "date": "2026-05-30",
+    "reported_issue": "Steady rise in the low-pressure spool vibration amplitude (N1 Vib) accompanied by a minor but persistent decay in fan-driven bypass mass flow over 150 cycles.",
+    "root_cause": "Micro-shifting of the fan blade retaining pins due to frictional wear of the dry-film lubricant in the blade-to-disk slot attachments.",
+    "action_taken": "Disassembled the fan rotor assembly, applied fresh solid-film lubricant to the blade roots, and re-torqued the retaining pins to specifications.",
+    "resolution_time": "7.5 hrs downtime, vibration levels returned to baseline.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0040",
+    "unit": "Engine Unit 72 (Turbofan)",
+    "date": "2026-07-04",
+    "reported_issue": "Gradual divergence in the ratio between fan exit pressure (P24) and combustor inlet pressure (P30), indicating a subtle loss in initial stage pressure rise over 85 engine cycles.",
+    "root_cause": "Erosion of the fan exit guide vane (FEGV) leading edges from persistent sand ingestion during low-altitude operations.",
+    "action_taken": "Replaced the eroded fan exit guide vanes with newly coated, erosion-resistant OEM components and verified flow alignment.",
+    "resolution_time": "11 hrs downtime, engine cleared for scheduled operations.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0041",
+    "unit": "Engine Unit 45 (Turbofan)",
+    "date": "2026-08-15",
+    "reported_issue": "A slow, compounding rise in the fan hub temperature parameter (T21) relative to ambient conditions, coupled with a marginal decay in high-pressure spool speed (N2) demand.",
+    "root_cause": "Thermal distress and delamination of the acoustic treatment panels lined within the fan cowl bypass duct, causing localized flow disruption.",
+    "action_taken": "Removed the damaged acoustic liner sections and installed updated composite panels with high-temperature epoxy bonding.",
+    "resolution_time": "9 hrs downtime, bypass duct aerodynamic integrity restored.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0042",
+    "unit": "Engine Unit 91 (Turbofan)",
+    "date": "2026-09-22",
+    "reported_issue": "Slow, upward creep in low-pressure spool speed (N1) to maintain targeted thrust, alongside a persistent shift in the fan outlet total pressure (P15) over the last 110 flights.",
+    "root_cause": "Minor physical distortion of the fan blade trailing edges caused by repeated foreign object ingestion (FOD) of small gravel during taxiing.",
+    "action_taken": "Conducted on-wing cold-working and blending of the deformed trailing edges within engine manual tolerance limits.",
+    "resolution_time": "5 hrs downtime, engine cleared for flight.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0043",
+    "unit": "Engine Unit 29 (Turbofan)",
+    "date": "2026-10-05",
+    "reported_issue": "Progressive increase in fan casing vibration telemetry (N1 rotor tracking) during high-altitude climb phases, developing steadily over a 60-day period.",
+    "root_cause": "Uneven degradation and wear of the fan blade abradable rub strip lining, causing asymmetrical tip clearance gaps.",
+    "action_taken": "Machined and replaced the fan casing abradable shroud insert and verified uniform blade-tip clearances via laser measurement.",
+    "resolution_time": "10 hrs downtime, vibration metrics stabilized to nominal.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0044",
+    "unit": "Engine Unit 64 (Turbofan)",
+    "date": "2026-11-18",
+    "reported_issue": "Step-like increment followed by a slow, chronic decay in the fan discharge pressure ratio (P15/P2) over 70 cycles, signaling localized aerodynamic stall cells.",
+    "root_cause": "Slight twist angle deformation of two adjacent fan blades due to high aerodynamic loading cycles near the blade roots.",
+    "action_taken": "Replaced the deformed fan blades with a matched pair of balanced blades and completed a full blade-path digital inspection.",
+    "resolution_time": "8.5 hrs downtime, normal pressure ratios recovered.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0045",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-02-14",
+    "reported_issue": "Gradual downward trend in Fan pressure ratio (P15/P2) over the last 120 cycles, combined with a progressive 1.2% increase in low-pressure spool speed (N1) required to maintain target thrust.",
+    "root_cause": "Accumulated atmospheric dust and grease build-up on the mid-span dampers of the fan blades, creating localized aerodynamic drag and disrupting airflow velocity profiles.",
+    "action_taken": "Performed a comprehensive chemical wash of the fan assembly followed by manual hand-wiping of all blade surfaces to restore optimal boundary layer flow.",
+    "resolution_time": "4 hrs downtime, engine cleared for service.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0046",
+    "unit": "Engine Unit 34 (Turbofan)",
+    "date": "2026-04-03",
+    "reported_issue": "Slow, upward drift in the fan outlet temperature (T24) relative to the ambient intake temperature (T2), paired with a slight increase in low-pressure rotor vibration (N1_VIB) during climb-out.",
+    "root_cause": "Acoustic panel liner degradation in the fan cowl casing, causing minor turbulent recirculation zones near the blade tips and reducing overall bypass efficiency.",
+    "action_taken": "Replaced the degraded acoustic liner segments within the fan cowl and recalibrated the vibration telemetry sensors.",
+    "resolution_time": "8 hrs downtime, engine cleared for flight.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0047",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-05-19",
+    "reported_issue": "Steady divergence in the fan-to-compressor transition duct pressure indicators, characterized by a persistent drop in total pressure at the fan exit guide vanes (FEGV) over a 45-day operational window.",
+    "root_cause": "Erosion of the fan exit guide vane leading edges due to sustained runway sand ingestion, introducing wake turbulence into the booster inlet.",
+    "action_taken": "Completed an on-wing blending and aero-contouring of the fan exit guide vanes, returning surface finish parameters to specified tolerances.",
+    "resolution_time": "7.5 hrs downtime, engine returned to active fleet.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0048",
+    "unit": "Engine Unit 05 (Turbofan)",
+    "date": "2026-07-22",
+    "reported_issue": "Subtle, compounding rise in the low-pressure spool speed (N1) to core spool speed (N2) ratio, alongside a minor but steady increase in fuel flow (Wf) during cruise configurations over 150 flight legs.",
+    "root_cause": "Gradual loss of fan blade tip-clearance control due to thermal expansion wear on the abradable fan stator casing shroud.",
+    "action_taken": "Applied a fresh layer of synthetic abradable material to the fan casing shroud and machined it to restore nominal blade tip clearance.",
+    "resolution_time": "12 hrs downtime, engine cleared for departure.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0049",
+    "unit": "Engine Unit 67 (Turbofan)",
+    "date": "2026-09-11",
+    "reported_issue": "Anomalous step-change followed by a continuous upward drift in the fan hub temperature parameter (T25), accompanied by minor fluctuations in the fan speed (Nf) telemetry.",
+    "root_cause": "Micro-slippage of the fan blade root joints within the disk slots, caused by dry film lubricant degradation and resulting in minor blade untwist under centrifugal load.",
+    "action_taken": "Lubricated all fan blade roots with premium molybdenum disulfide compound and re-torqued the blade retention pins to specifications.",
+    "resolution_time": "5 hrs downtime, engine approved for return to service.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0050",
+    "unit": "Engine Unit 42 (Turbofan)",
+    "date": "2026-10-05",
+    "reported_issue": "Slow degradation in thrust-specific fuel consumption (TSFC) paired with a persistent 0.8% drop in the low-pressure compressor inlet pressure (P24) across 90 flight cycles.",
+    "root_cause": "Aneroid seal degradation on the fan spinner dome, allowing small bypass air leaks to disrupt the clean axial flow vector into the engine core.",
+    "action_taken": "Replaced the fan spinner dome seals and conducted a high-power ground run to verify pressure recovery at the core entrance.",
+    "resolution_time": "3.5 hrs downtime, engine cleared for flight.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0051",
+    "unit": "Engine Unit 78 (Turbofan)",
+    "date": "2026-11-12",
+    "reported_issue": "Gradual increase in the low-pressure spool vibration amplitude (N1_AMP) at high bypass ratios, coupled with a slight decay in the fan bypass pressure ratio (P15/P2).",
+    "root_cause": "Non-uniform ice-shedding damage and subsequent minor foreign object damage (FOD) on three titanium fan blade tips, inducing a minor mass imbalance.",
+    "action_taken": "Re-balanced the fan rotor assembly using trim weights on the spinner and blended out minor nicks on the damaged blade tips.",
+    "resolution_time": "9 hrs downtime, engine cleared for dispatch.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0052",
+    "unit": "Engine Unit 23 (Turbofan)",
+    "date": "2026-12-20",
+    "reported_issue": "Steady divergence between actual fan speed (N1) and commanded fan speed over a 200-hour operational period, with a corresponding minor increase in the fan discharge temperature.",
+    "root_cause": "Gradual delamination of the composite fan blade trailing edges due to recurrent thermal cycling, altering the blade camber and reducing aerodynamic lift.",
+    "action_taken": "Replaced the affected composite fan blades with a matched, balanced set and validated the aerodynamic tracking via digital test cell run.",
+    "resolution_time": "14 hrs downtime, engine returned to service.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0053",
+    "unit": "Engine Unit 14 (Turbofan)",
+    "date": "2026-03-12",
+    "reported_issue": "A gradual, upward drift in low-pressure spool speed (N1) relative to commanded thrust over 110 flight cycles, accompanied by a progressive increase in fan inlet pressure (P2) turbulence metrics.",
+    "root_cause": "Acoustic liner panel degradation in the fan cowl casing, leading to localized detachment of honeycomb cells and subsequent boundary layer disruption at the fan blade tips.",
+    "action_taken": "Replaced the damaged acoustic cowl panels and completed an ultrasonic sweep of the intake structure; fan tip clearance and flow characteristics returned to baseline.",
+    "resolution_time": "8 hrs downtime, engine cleared for departure.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0054",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-06-18",
+    "reported_issue": "Exhaust gas temperature (EGT) showing a slow, compounding upward trend alongside a corresponding drop in bypass duct pressure (P15) over the last 95 cycles under high-altitude cruise conditions.",
+    "root_cause": "Accumulation of atmospheric salts and industrial airborne particulates on the pressure side of the mid-span fan blades, causing early boundary layer separation.",
+    "action_taken": "Performed a comprehensive multi-stage detergent engine core and fan wash, followed by a high-resolution optical inspection of the blade profiles to confirm contaminant removal.",
+    "resolution_time": "4 hrs downtime, engine cleared for flight.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0055",
+    "unit": "Engine Unit 37 (Turbofan)",
+    "date": "2026-09-04",
+    "reported_issue": "Low-frequency vibrational signatures in the N1 spool showing a progressive increase in amplitude over 130 flight hours, coupled with a slight degradation in the fan-to-compressor pressure ratio.",
+    "root_cause": "Slight loss of material mass at the fan blade tips due to continuous micro-abrasion from runway debris, throwing the entire low-pressure rotor assembly out of dynamic balance.",
+    "action_taken": "Conducted an on-wing dynamic fan balance using precision trim weights and verified vibration levels were well within acceptable limits during a ground run.",
+    "resolution_time": "5 hrs downtime, engine cleared for departure.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0056",
+    "unit": "Engine Unit 62 (Turbofan)",
+    "date": "2026-11-21",
+    "reported_issue": "A steady, multi-cycle decline in fan bypass efficiency metrics, characterized by a diverging delta between fan outlet temperature (T24) and ambient inlet temperature (T2).",
+    "root_cause": "Deterioration and tearing of the fan blade root elastomer seals, which permitted minor air recirculation back through the rotor hub rather than pushing cleanly into the bypass duct.",
+    "action_taken": "Stripped the degraded root seals, prepped the blade retention slots, and installed a complete set of upgraded elastomer seals; verified pressure seals with a static flow test.",
+    "resolution_time": "7 hrs downtime, engine cleared for flight.",
+    "subsystem": "fan"
+  },
+  {
+    "log_id": "ML-0057",
+    "unit": "Engine Unit 14 (Turbofan)",
+    "date": "2026-03-12",
+    "reported_issue": "Gradual upward drift in High Pressure Compressor discharge temperature (T30) coupled with a minor, persistent drop in burner pressure (Ps30) over the last 150 flight cycles.",
+    "root_cause": "Progressive wear and loss of spring tension in the combustor outer transition piece leaf seals, causing high-pressure compressor discharge air to bypass the combustor liner directly into the turbine stage.",
+    "action_taken": "Removed the engine for shop visit; disassembled the combustor module to replace the worn leaf seals and realign the outer transition liner.",
+    "resolution_time": "22 hrs downtime for module replacement, engine returned to service after test cell validation.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0058",
+    "unit": "Engine Unit 42 (Turbofan)",
+    "date": "2026-04-19",
+    "reported_issue": "Slow, cumulative rise in High Pressure Turbine blade outer air seal (BOAS) cooling air temperature, accompanied by a steady decay in the turbine efficiency parameter.",
+    "root_cause": "Erosion and thermal degradation of the honeycomb seal segments in the High Pressure Turbine stage 1 shroud, allowing excessive blade tip clearance and gas leakage.",
+    "action_taken": "Swapped the engine to install a lease unit; sent the affected engine to the shop to replace the HPT stage 1 shroud segments and BOAS assemblies.",
+    "resolution_time": "18 hrs downtime for engine swap, core engine routed to overhaul facility.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0059",
+    "unit": "Engine Unit 03 (Turbofan)",
+    "date": "2026-05-05",
+    "reported_issue": "A slow, compounding increase in inter-stage turbine pressure readings alongside an elevated Low Pressure Turbine exit temperature (T50) relative to core speed (N2).",
+    "root_cause": "Gradual deterioration of the inter-stage turbine labyrinth seals, leading to inter-stage hot gas ingestion into the rotor cavity.",
+    "action_taken": "Pulled the engine during scheduled maintenance window; split the turbine casing and replaced the inter-stage labyrinth seal rings.",
+    "resolution_time": "24 hrs downtime, engine successfully re-installed after hot section inspection and seal replacement.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0060",
+    "unit": "Engine Unit 77 (Turbofan)",
+    "date": "2026-06-22",
+    "reported_issue": "Steady downward trend in Low Pressure Compressor (LPC) discharge pressure (P24) and an unexplained, gradual increase in HPC inlet temperature (T24) over 80 operating hours.",
+    "root_cause": "Delamination of the abradable seals in the LPC booster stator stages, allowing air to recirculate forward and reducing booster pressure ratio.",
+    "action_taken": "Scheduled the aircraft for engine replacement; removed the unit to replace the booster stator casing assembly and renew all abradable seal coatings.",
+    "resolution_time": "15 hrs downtime for quick engine change (QEC), unit sent to shop.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0061",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-07-30",
+    "reported_issue": "Continuous rise in No. 3 bearing cavity oil temperature and scavenging pressure, indicating progressive thermal loading and air leakage into the sump.",
+    "root_cause": "Gradual carbon face seal wear and carbon ring fracture in the forward sumps, permitting high-pressure compressor bleed air to breach the bearing cavity seal.",
+    "action_taken": "Pulled the engine from service; replaced the worn No. 3 bearing carbon seal assembly and flushed the scavenge lines.",
+    "resolution_time": "20 hrs downtime, engine cleared for service after static pressure test.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0062",
+    "unit": "Engine Unit 51 (Turbofan)",
+    "date": "2026-09-14",
+    "reported_issue": "Gradual, persistent decrease in high-pressure rotor speed (N2) relative to fuel flow (Wf), with a corresponding increase in bypass duct air temperature.",
+    "root_cause": "Thermal degradation and physical erosion of the brush seals at the compressor discharge plenum, causing parasitic leakage of high-pressure air into the fan bypass duct.",
+    "action_taken": "Conducted an unscheduled engine swap; sent the degraded core to the overhaul shop to replace the compressor discharge brush seal assembly.",
+    "resolution_time": "14 hrs downtime for engine swap, unit sent to off-site maintenance center.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0063",
+    "unit": "Engine Unit 33 (Turbofan)",
+    "date": "2026-10-08",
+    "reported_issue": "Slow increase in oil consumption rate combined with a persistent, minor rise in turbine frame temperature sensor readings over several weeks.",
+    "root_cause": "Deterioration of the elastomeric O-rings and metal-to-metal seals on the external oil scavenge tubes near the high-temperature turbine frame, leading to micro-weeping of lubricant.",
+    "action_taken": "Replaced all external manifold seals and high-temperature O-rings during a planned overnight ground stop.",
+    "resolution_time": "8 hrs downtime, engine returned to service with oil consumption restored to baseline.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0064",
+    "unit": "Engine Unit 65 (Turbofan)",
+    "date": "2026-11-17",
+    "reported_issue": "Gradual loss of Low Pressure Turbine (LPT) efficiency, manifested by a steady rise in exhaust gas temperature (T48) and minor drop in fan speed (N1) over 200 cycles.",
+    "root_cause": "Wear and degradation of the turbine rotor interstage tip seals (honeycomb type) due to high thermal cycling, increasing blade tip clearance and gas bypass.",
+    "action_taken": "Removed engine from wing; transferred to maintenance hangar for LPT module swap and installation of new honeycomb seal segments.",
+    "resolution_time": "19 hrs downtime, engine re-qualified after engine ground run-up.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0065",
+    "unit": "Engine Unit 12 (Turbofan)",
+    "date": "2026-02-14",
+    "reported_issue": "Gradual shift in fuel flow (Wf) to core speed (N2) ratio during high-altitude cruise, coupled with a steady increase in low-pressure turbine exit temperature (T50) over the last 40 flight cycles.",
+    "root_cause": "Accelerated wear of the carbon face seals in the No. 3 bearing chamber, causing oil-mist migration into the core airflow and disrupting local combustion thermodynamics.",
+    "action_taken": "Borescope inspected the aft fan frame area, confirmed oil wetting, and replaced the degraded No. 3 bearing carbon seal assembly.",
+    "resolution_time": "22 hrs downtime, unit returned to service after successful ground run.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0066",
+    "unit": "Engine Unit 45 (Turbofan)",
+    "date": "2026-04-03",
+    "reported_issue": "Upward trend in interstage turbine temperature (T48) accompanied by a minor but persistent reduction in fan speed (N1) for a given thrust lever angle.",
+    "root_cause": "Erosion of the interstage brush seals on the high-pressure turbine drum, allowing high-pressure gas to bypass the turbine stage and reducing thermal efficiency.",
+    "action_taken": "Pulled the HPT module, replaced the worn interstage brush seal ring, and restored correct stator-to-rotor clearances.",
+    "resolution_time": "36 hrs downtime, HPT module rebuilt and reinstalled.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0067",
+    "unit": "Engine Unit 78 (Turbofan)",
+    "date": "2026-05-19",
+    "reported_issue": "Slow, cumulative drift in the compressor inlet temperature (T24) and high-pressure compressor discharge pressure (Ps3) during steady-state climb phases.",
+    "root_cause": "Deterioration of the honeycomb land on the labyrinth seal of the high-pressure compressor front shaft, resulting in excessive high-pressure air leakage back toward the intermediate compressor stages.",
+    "action_taken": "Conducted a targeted teardown of the forward compressor section, machined the worn shaft surface, and installed a new honeycomb seal segment.",
+    "resolution_time": "18 hrs downtime, engine certified fit for flight.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0068",
+    "unit": "Engine Unit 03 (Turbofan)",
+    "date": "2026-06-25",
+    "reported_issue": "Persistent, minor increase in core speed (N2) required to maintain target thrust, alongside a slow upward trend in HPC outlet temperature (T30).",
+    "root_cause": "Thermal distortion and subsequent flaking of the abradable outer air seal segments in the mid-compressor stages, widening the blade tip gap and increasing backflow losses.",
+    "action_taken": "Removed the compressor top-case, scraped out the degraded abradable material, and applied new high-temperature abradable lining to the stator shrouds.",
+    "resolution_time": "28 hrs downtime, case closed after post-maintenance test cell run.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0069",
+    "unit": "Engine Unit 89 (Turbofan)",
+    "date": "2026-08-11",
+    "reported_issue": "Gradual drop in the low-pressure compressor exit pressure (P24) and an unexplained rise in external accessory gearbox housing temperature over a 50-hour operating window.",
+    "root_cause": "Degradation of the radial lip seals on the accessory drive shaft, allowing hot buffer air from the compressor to migrate into the gearbox cavity.",
+    "action_taken": "Decoupled the accessory gearbox, extracted the worn radial lip seals, installed upgraded Viton-elastomer seals, and flushed the gearbox oil system.",
+    "resolution_time": "14 hrs downtime, unit cleared for dispatch.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0070",
+    "unit": "Engine Unit 52 (Turbofan)",
+    "date": "2026-09-30",
+    "reported_issue": "Unusual climb-phase fluctuations in bleed-air manifold temperature (T3) and a steady rise in the engine's overall specific fuel consumption (SFC).",
+    "root_cause": "Failure of the internal high-pressure turbine cooling air seal, causing high-energy cooling air to bleed prematurely into the exhaust path without performing work.",
+    "action_taken": "Swapped the engine unit from the wing, performed hot-section disassembly to replace the internal turbine cooling air manifold seals, and rebalanced the rotor.",
+    "resolution_time": "48 hrs downtime, engine swapped and core routed to overhaul facility.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0071",
+    "unit": "Engine Unit 31 (Turbofan)",
+    "date": "2026-11-05",
+    "reported_issue": "Slow, compounding increase in total temperature at the HPC outlet (T30) relative to core speed (N2), combined with elevated bearing oil scavenge temperatures.",
+    "root_cause": "Rubbing and wear of the labyrinth seal teeth on the rear compressor rotor shaft, which increased frictional heat generation and elevated local cavity temperatures.",
+    "action_taken": "Inspected via flexible borescope, observed localized scoring, and replaced the rear rotor shaft labyrinth seal ring during a scheduled workshop visit.",
+    "resolution_time": "20 hrs downtime, engine re-certified for service.",
+    "subsystem": "seals_other"
+  },
+  {
+    "log_id": "ML-0072",
+    "unit": "Engine Unit 64 (Turbofan)",
+    "date": "2026-12-18",
+    "reported_issue": "Continuous drop in the engine bypass ratio profile accompanied by a slow increase in the high-pressure turbine inlet temperature (T41) estimates calculated by the EEC.",
+    "root_cause": "Delamination of the outer fan duct bypass seals, allowing compressed bypass air to leak back into the engine core stream and disrupting designed pressure ratios.",
+    "action_taken": "Replaced the deteriorated bypass duct seal segments and adjusted the clamping pressure of the seal retaining channel.",
+    "resolution_time": "12 hrs downtime, completed during overnight maintenance gate stay.",
+    "subsystem": "seals_other"
+  }
+]
