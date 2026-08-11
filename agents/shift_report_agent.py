@@ -13,16 +13,22 @@ initiative + a schedule, not a response to a question.
 import json
 import getpass
 import os
+import sys
+from pathlib import Path
 from datetime import datetime
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import SystemMessage, HumanMessage
 
+# This file lives in agents/, so parent.parent is the repo root.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(REPO_ROOT / "rag"))
+
 from retriever import retrieve_similar_incidents
 
-FLEET_STATE_PATH = "fleet_state.json"
-SENSOR_SUMMARY_PATH = "sensor_summary.json"
-REPORT_LOG_PATH = "shift_reports.json"
+FLEET_STATE_PATH = REPO_ROOT / "models" / "fleet_state.json"
+SENSOR_SUMMARY_PATH = REPO_ROOT / "models" / "sensor_summary.json"
+REPORT_LOG_PATH = REPO_ROOT / "agents" / "shift_reports.json"
 
 MAX_CRITICAL_DETAILED = 5  # detail this many critical engines fully, summarize the rest
 
