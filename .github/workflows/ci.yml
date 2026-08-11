@@ -1,0 +1,36 @@
+name: CI
+
+"on":
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Deliberately NOT installing the full requirements.txt here.
+      # The test suite was designed to duplicate small pieces of core logic
+      # (RUL capping, model shapes, RAG formatting) rather than import the
+      # heavy modules directly (which load trained models/API keys/live data
+      # at import time). This keeps CI fast and independent of secrets or
+      # large downloads (TensorFlow, ChromaDB, LangGraph aren't needed here).
+      - name: Install test dependencies
+        run: |
+          pip install pytest pandas numpy torch ruff
+
+      - name: Lint (non-blocking)
+        run: ruff check tests/ --exit-zero
+
+      - name: Run tests
+        run: pytest tests/ -v
