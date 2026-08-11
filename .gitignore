@@ -3,3 +3,6 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 *.log
+rag/chroma_db/
+maintenance_logs_checkpoint.json
+failed_batch.txt
