@@ -8,7 +8,15 @@ Two tabs:
 """
 
 import json
+import sys
+from pathlib import Path
 import streamlit as st
+
+# This file lives in app/, so parent.parent is the repo root. Add agents/
+# to the path so we can import chatbot_agent and shift_report_agent —
+# each of those already adds rag/ to the path themselves.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(REPO_ROOT / "agents"))
 
 from chatbot_agent import build_agent, extract_text
 from shift_report_agent import build_llm, generate_shift_report, REPORT_LOG_PATH
