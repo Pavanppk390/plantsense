@@ -4,17 +4,65 @@ Queries the Chroma vector store for the most semantically similar
 maintenance logs given a natural-language query.
 """
 
+from pathlib import Path
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-CHROMA_PERSIST_DIR = "chroma_db"
+# Anchor paths to the repo root (this file lives in rag/, so parent.parent
+# is the repo root) instead of the current working directory — this makes
+# the app work correctly no matter where it's launched from (Colab,
+# Streamlit Cloud, a different machine, etc.)
+REPO_ROOT = Path(__file__).resolve().parent.parent
+CHROMA_PERSIST_DIR = str(REPO_ROOT / "rag" / "chroma_db")
+LOGS_PATH = REPO_ROOT / "data" / "maintenance_logs_full.json"
 COLLECTION_NAME = "maintenance_logs"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 
 # Load once, reuse across queries — loading the model per-call would be slow
 _embedder = SentenceTransformer(EMBEDDING_MODEL)
 _client = chromadb.PersistentClient(path=CHROMA_PERSIST_DIR)
-_collection = _client.get_collection(COLLECTION_NAME)
+
+try:
+    _collection = _client.get_collection(COLLECTION_NAME)
+except Exception:
+    # chroma_db/ is gitignored (derived data) — if it doesn't exist yet
+    # (e.g. first run on a fresh deployment), build it automatically from
+    # the committed maintenance_logs_full.json instead of crashing.
+    import json
+
+    with open(LOGS_PATH) as f:
+        _logs = json.load(f)
+
+    def _build_embedding_text(log: dict) -> str:
+        return (
+            f"Unit: {log['unit']}\n"
+            f"Issue: {log['reported_issue']}\n"
+            f"Root cause: {log['root_cause']}"
+        )
+
+    _texts = [_build_embedding_text(log) for log in _logs]
+    _embeddings = _embedder.encode(_texts).tolist()
+
+    _collection = _client.create_collection(
+        name=COLLECTION_NAME,
+        metadata={"description": "PlantSense synthetic maintenance logs"},
+    )
+    _collection.add(
+        ids=[log["log_id"] for log in _logs],
+        embeddings=_embeddings,
+        documents=_texts,
+        metadatas=[
+            {
+                "log_id": log["log_id"],
+                "unit": log["unit"],
+                "date": log["date"],
+                "subsystem": log["subsystem"],
+                "action_taken": log["action_taken"],
+                "resolution_time": log["resolution_time"],
+            }
+            for log in _logs
+        ],
+    )
 
 
 def retrieve_similar_incidents(query: str, top_k: int = 3) -> list:
