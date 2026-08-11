@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-08-10T15:13:50.957831",
+    "summary_counts": {
+      "critical": 34,
+      "watch": 9,
+      "healthy": 57
+    },
+    "report_text": "**Shift Handover Report: 2026-08-10 15:13**\n\n**Fleet Overview:** 100 engines monitored; 34 Critical, 9 Watch, 57 Healthy.\n\n**Critical Engine Status:**\n\n*   **Engine 34:** RUL 4.8. Primary sensors: 8 (1.49), 13 (1.40), 7 (-1.32). Precedent: ML-0036, ML-0063. Inspect bearing lubrication and seals.\n*   **Engine 68:** RUL 5.5. Primary sensors: 11 (1.22), 12 (-1.21), 4 (1.20). Precedent: ML-0036, ML-0009. Inspect bearing lubrication and turbine sections.\n*   **Engine 31:** RUL 7.3. Primary sensors: 4 (1.34), 12 (-1.30), 7 (-1.29). Precedent: ML-0036, ML-0009. Monitor for bearing/turbine degradation.\n*   **Engine 82:** RUL 7.8. Primary sensors: 8 (1.22), 13 (1.14), 11 (1.13). Precedent: ML-0036, ML-0027. Review bearing lubrication system.\n*   **Engine 76:** RUL 8.3. Primary sensors: 9 (1.50), 14 (1.37), 20 (-1.18). Precedent: ML-0009, ML-0036. High anomaly score; prioritize LPT/HPT inspection.\n\n**Watch List:** Engines 3, 21, 30, 33, 44, 60, 65, 71, 72 currently showing nominal variance.\n\n**Recommendation:** Prioritize maintenance on Engine 34 due to lowest RUL; perform bearing lubrication system checks across all critical units citing ML-0036 frequency."
+  },
+  {
+    "timestamp": "2026-08-10T15:36:11.850199",
+    "summary_counts": {
+      "critical": 34,
+      "watch": 9,
+      "healthy": 57
+    },
+    "report_text": "**Shift Handover Report: 2026-08-10**\n\nFleet Status: 100 engines total (34 Critical, 9 Watch, 57 Healthy).\n\n**Critical Engine Analysis**\n\n*   **Engine 34:** RUL 4.8. Primary sensors: S8 (1.49), S13 (1.40). Precedent: ML-0036, ML-0063.\n*   **Engine 68:** RUL 5.5. Primary sensors: S11 (1.23), S12 (-1.22). Precedent: ML-0036, ML-0009.\n*   **Engine 31:** RUL 7.3. Primary sensors: S4 (1.35), S12 (-1.31). Precedent: ML-0036, ML-0009.\n*   **Engine 82:** RUL 7.8. Primary sensors: S8 (1.22), S13 (1.14). Precedent: ML-0036, ML-0027.\n*   **Engine 76:** RUL 8.3. Primary sensors: S9 (1.51), S14 (1.38). Precedent: ML-0009, ML-0036.\n\n**Watch List**\nEngines [3, 21, 30, 33, 44, 60, 65, 71, 72] require routine monitoring for degradation trends.\n\n**Recommendation**\nPrioritize inspection of bearing lubrication and LPT/HPT subsystems on engines 34 and 68 due to low RUL and recurring ML-0036 signatures."
+  },
+  {
+    "timestamp": "2026-08-10T15:44:55.324347",
+    "summary_counts": {
+      "critical": 34,
+      "watch": 9,
+      "healthy": 57
+    },
+    "report_text": "**Shift Handover Report: 2026-08-10 15:44**\n\n**Fleet Status:** 100 engines total; 34 Critical, 9 Watch, 57 Healthy.\n\n**Critical Engines:**\n\n*   **Engine 34:** RUL 4.8. Sensors: S8 (1.49), S13 (1.40), S7 (-1.33). Precedent: ML-0036, ML-0063. Inspect bearing lubrication and seals.\n*   **Engine 68:** RUL 5.5. Sensors: S11 (1.23), S12 (-1.22), S4 (1.21). Precedent: ML-0036, ML-0009. Prioritize LPT/HPT and bearing lubrication check.\n*   **Engine 31:** RUL 7.3. Sensors: S4 (1.35), S12 (-1.31), S7 (-1.29). Precedent: ML-0036, ML-0009. Monitor bearing lubrication stability.\n*   **Engine 82:** RUL 7.8. Sensors: S8 (1.22), S13 (1.14), S11 (1.14). Precedent: ML-0036, ML-0027. Review bearing lubrication systems.\n*   **Engine 76:** RUL 8.3. Sensors: S9 (1.51), S14 (1.38), S20 (-1.19). Precedent: ML-0009, ML-0036. Inspect LPT/HPT components.\n\n**Watch List:** Engines 3, 21, 30, 33, 44, 60, 65, 71, 72 require routine monitoring.\n\n**Recommendation:** Prioritize maintenance on Engine 34 due to lowest RUL; investigate bearing lubrication across all flagged units citing ML-0036."
+  }
+]
