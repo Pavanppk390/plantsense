@@ -10,6 +10,9 @@ before adding query_sensor_data and get_current_predictions.
 
 import getpass
 import os
+import sys
+import json
+from pathlib import Path
 
 from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
@@ -21,15 +24,19 @@ except ImportError:
     from langgraph.prebuilt import create_react_agent as _create_agent
     _PROMPT_KWARG = "prompt"  # old API (langgraph.prebuilt, pre-v1.0)
 
+# This file lives in agents/, so parent.parent is the repo root. Add rag/
+# to the path so `from retriever import ...` resolves regardless of the
+# current working directory the app was launched from.
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.append(str(REPO_ROOT / "rag"))
+
 from retriever import retrieve_similar_incidents as _retrieve_similar_incidents
 
-import json
-
-with open("fleet_state.json") as f:
+with open(REPO_ROOT / "models" / "fleet_state.json") as f:
     _FLEET_STATE = json.load(f)
 
 try:
-    with open("sensor_summary.json") as f:
+    with open(REPO_ROOT / "models" / "sensor_summary.json") as f:
         _SENSOR_SUMMARY = json.load(f)
 except FileNotFoundError:
     _SENSOR_SUMMARY = {}
