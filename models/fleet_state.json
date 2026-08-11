@@ -1,0 +1,802 @@
+{
+  "1": {
+    "engine_id": 1,
+    "predicted_rul": 135.3,
+    "anomaly_score": 0.1904,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "2": {
+    "engine_id": 2,
+    "predicted_rul": 138.5,
+    "anomaly_score": 0.2043,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "3": {
+    "engine_id": 3,
+    "predicted_rul": 40.4,
+    "anomaly_score": 0.2416,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "watch"
+  },
+  "4": {
+    "engine_id": 4,
+    "predicted_rul": 84.9,
+    "anomaly_score": 0.2114,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "5": {
+    "engine_id": 5,
+    "predicted_rul": 133.1,
+    "anomaly_score": 0.2303,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "6": {
+    "engine_id": 6,
+    "predicted_rul": 91.7,
+    "anomaly_score": 0.2149,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "7": {
+    "engine_id": 7,
+    "predicted_rul": 132.0,
+    "anomaly_score": 0.2185,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "8": {
+    "engine_id": 8,
+    "predicted_rul": 92.7,
+    "anomaly_score": 0.2306,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "9": {
+    "engine_id": 9,
+    "predicted_rul": 105.0,
+    "anomaly_score": 0.2256,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "10": {
+    "engine_id": 10,
+    "predicted_rul": 85.5,
+    "anomaly_score": 0.2258,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "11": {
+    "engine_id": 11,
+    "predicted_rul": 86.3,
+    "anomaly_score": 0.2337,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "12": {
+    "engine_id": 12,
+    "predicted_rul": 103.2,
+    "anomaly_score": 0.214,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "13": {
+    "engine_id": 13,
+    "predicted_rul": 65.2,
+    "anomaly_score": 0.2092,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "14": {
+    "engine_id": 14,
+    "predicted_rul": 113.9,
+    "anomaly_score": 0.1931,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "15": {
+    "engine_id": 15,
+    "predicted_rul": 124.4,
+    "anomaly_score": 0.2331,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "16": {
+    "engine_id": 16,
+    "predicted_rul": 111.1,
+    "anomaly_score": 0.2105,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "17": {
+    "engine_id": 17,
+    "predicted_rul": 50.5,
+    "anomaly_score": 0.3733,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "18": {
+    "engine_id": 18,
+    "predicted_rul": 32.5,
+    "anomaly_score": 0.325,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "19": {
+    "engine_id": 19,
+    "predicted_rul": 158.0,
+    "anomaly_score": 0.2147,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "20": {
+    "engine_id": 20,
+    "predicted_rul": 21.1,
+    "anomaly_score": 0.5527,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "21": {
+    "engine_id": 21,
+    "predicted_rul": 67.0,
+    "anomaly_score": 0.2503,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "22": {
+    "engine_id": 22,
+    "predicted_rul": 118.6,
+    "anomaly_score": 0.2245,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "23": {
+    "engine_id": 23,
+    "predicted_rul": 140.7,
+    "anomaly_score": 0.1943,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "24": {
+    "engine_id": 24,
+    "predicted_rul": 19.8,
+    "anomaly_score": 1.798,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "25": {
+    "engine_id": 25,
+    "predicted_rul": 121.9,
+    "anomaly_score": 0.2474,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "26": {
+    "engine_id": 26,
+    "predicted_rul": 118.0,
+    "anomaly_score": 0.2244,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "27": {
+    "engine_id": 27,
+    "predicted_rul": 65.7,
+    "anomaly_score": 0.2154,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "28": {
+    "engine_id": 28,
+    "predicted_rul": 108.3,
+    "anomaly_score": 0.232,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "29": {
+    "engine_id": 29,
+    "predicted_rul": 111.7,
+    "anomaly_score": 0.2224,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "30": {
+    "engine_id": 30,
+    "predicted_rul": 81.4,
+    "anomaly_score": 0.2609,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "31": {
+    "engine_id": 31,
+    "predicted_rul": 7.3,
+    "anomaly_score": 0.9982,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "32": {
+    "engine_id": 32,
+    "predicted_rul": 55.2,
+    "anomaly_score": 0.3189,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "33": {
+    "engine_id": 33,
+    "predicted_rul": 130.2,
+    "anomaly_score": 0.2946,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "34": {
+    "engine_id": 34,
+    "predicted_rul": 4.8,
+    "anomaly_score": 0.5181,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "35": {
+    "engine_id": 35,
+    "predicted_rul": 14.8,
+    "anomaly_score": 0.8621,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "36": {
+    "engine_id": 36,
+    "predicted_rul": 23.9,
+    "anomaly_score": 0.5686,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "37": {
+    "engine_id": 37,
+    "predicted_rul": 26.9,
+    "anomaly_score": 0.3194,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "38": {
+    "engine_id": 38,
+    "predicted_rul": 55.1,
+    "anomaly_score": 0.3644,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "39": {
+    "engine_id": 39,
+    "predicted_rul": 115.2,
+    "anomaly_score": 0.2047,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "40": {
+    "engine_id": 40,
+    "predicted_rul": 37.6,
+    "anomaly_score": 0.4794,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "41": {
+    "engine_id": 41,
+    "predicted_rul": 24.9,
+    "anomaly_score": 0.3224,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "42": {
+    "engine_id": 42,
+    "predicted_rul": 14.5,
+    "anomaly_score": 0.4463,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "43": {
+    "engine_id": 43,
+    "predicted_rul": 82.0,
+    "anomaly_score": 0.2135,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "44": {
+    "engine_id": 44,
+    "predicted_rul": 104.5,
+    "anomaly_score": 0.2675,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "45": {
+    "engine_id": 45,
+    "predicted_rul": 78.7,
+    "anomaly_score": 0.2455,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "46": {
+    "engine_id": 46,
+    "predicted_rul": 35.4,
+    "anomaly_score": 0.4324,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "47": {
+    "engine_id": 47,
+    "predicted_rul": 102.6,
+    "anomaly_score": 0.2272,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "48": {
+    "engine_id": 48,
+    "predicted_rul": 135.4,
+    "anomaly_score": 0.2065,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "49": {
+    "engine_id": 49,
+    "predicted_rul": 14.0,
+    "anomaly_score": 0.4427,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "50": {
+    "engine_id": 50,
+    "predicted_rul": 99.5,
+    "anomaly_score": 0.2163,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "51": {
+    "engine_id": 51,
+    "predicted_rul": 111.1,
+    "anomaly_score": 0.2177,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "52": {
+    "engine_id": 52,
+    "predicted_rul": 30.1,
+    "anomaly_score": 0.6378,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "53": {
+    "engine_id": 53,
+    "predicted_rul": 31.8,
+    "anomaly_score": 0.6821,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "54": {
+    "engine_id": 54,
+    "predicted_rul": 118.6,
+    "anomaly_score": 0.2155,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "55": {
+    "engine_id": 55,
+    "predicted_rul": 147.2,
+    "anomaly_score": 0.2373,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "56": {
+    "engine_id": 56,
+    "predicted_rul": 13.8,
+    "anomaly_score": 0.5176,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "57": {
+    "engine_id": 57,
+    "predicted_rul": 62.6,
+    "anomaly_score": 0.239,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "58": {
+    "engine_id": 58,
+    "predicted_rul": 47.6,
+    "anomaly_score": 0.2569,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "59": {
+    "engine_id": 59,
+    "predicted_rul": 117.9,
+    "anomaly_score": 0.2285,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "60": {
+    "engine_id": 60,
+    "predicted_rul": 108.1,
+    "anomaly_score": 0.2577,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "61": {
+    "engine_id": 61,
+    "predicted_rul": 20.2,
+    "anomaly_score": 0.3812,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "62": {
+    "engine_id": 62,
+    "predicted_rul": 42.0,
+    "anomaly_score": 0.3859,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "63": {
+    "engine_id": 63,
+    "predicted_rul": 77.7,
+    "anomaly_score": 0.2406,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "64": {
+    "engine_id": 64,
+    "predicted_rul": 23.9,
+    "anomaly_score": 0.2844,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "65": {
+    "engine_id": 65,
+    "predicted_rul": 163.7,
+    "anomaly_score": 0.2549,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "66": {
+    "engine_id": 66,
+    "predicted_rul": 17.1,
+    "anomaly_score": 1.6707,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "67": {
+    "engine_id": 67,
+    "predicted_rul": 175.6,
+    "anomaly_score": 0.2199,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "68": {
+    "engine_id": 68,
+    "predicted_rul": 5.5,
+    "anomaly_score": 0.9101,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "69": {
+    "engine_id": 69,
+    "predicted_rul": 108.7,
+    "anomaly_score": 0.235,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "70": {
+    "engine_id": 70,
+    "predicted_rul": 104.0,
+    "anomaly_score": 0.2112,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "71": {
+    "engine_id": 71,
+    "predicted_rul": 86.5,
+    "anomaly_score": 0.2518,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "watch"
+  },
+  "72": {
+    "engine_id": 72,
+    "predicted_rul": 50.0,
+    "anomaly_score": 0.2204,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "watch"
+  },
+  "73": {
+    "engine_id": 73,
+    "predicted_rul": 142.7,
+    "anomaly_score": 0.1955,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "74": {
+    "engine_id": 74,
+    "predicted_rul": 116.2,
+    "anomaly_score": 0.2198,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "75": {
+    "engine_id": 75,
+    "predicted_rul": 88.2,
+    "anomaly_score": 0.2255,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "76": {
+    "engine_id": 76,
+    "predicted_rul": 8.3,
+    "anomaly_score": 1.5198,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "77": {
+    "engine_id": 77,
+    "predicted_rul": 27.6,
+    "anomaly_score": 0.2642,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "78": {
+    "engine_id": 78,
+    "predicted_rul": 144.0,
+    "anomaly_score": 0.218,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "79": {
+    "engine_id": 79,
+    "predicted_rul": 96.9,
+    "anomaly_score": 0.2008,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "80": {
+    "engine_id": 80,
+    "predicted_rul": 100.2,
+    "anomaly_score": 0.1934,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "81": {
+    "engine_id": 81,
+    "predicted_rul": 8.7,
+    "anomaly_score": 0.9467,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "82": {
+    "engine_id": 82,
+    "predicted_rul": 7.8,
+    "anomaly_score": 0.5247,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "83": {
+    "engine_id": 83,
+    "predicted_rul": 202.2,
+    "anomaly_score": 0.223,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "84": {
+    "engine_id": 84,
+    "predicted_rul": 60.8,
+    "anomaly_score": 0.2332,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "85": {
+    "engine_id": 85,
+    "predicted_rul": 202.5,
+    "anomaly_score": 0.2288,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "86": {
+    "engine_id": 86,
+    "predicted_rul": 144.3,
+    "anomaly_score": 0.2363,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "87": {
+    "engine_id": 87,
+    "predicted_rul": 100.8,
+    "anomaly_score": 0.2291,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "88": {
+    "engine_id": 88,
+    "predicted_rul": 123.6,
+    "anomaly_score": 0.213,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "89": {
+    "engine_id": 89,
+    "predicted_rul": 103.2,
+    "anomaly_score": 0.2329,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "90": {
+    "engine_id": 90,
+    "predicted_rul": 30.4,
+    "anomaly_score": 0.4024,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "91": {
+    "engine_id": 91,
+    "predicted_rul": 23.9,
+    "anomaly_score": 0.3868,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "92": {
+    "engine_id": 92,
+    "predicted_rul": 24.2,
+    "anomaly_score": 0.4193,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "93": {
+    "engine_id": 93,
+    "predicted_rul": 52.6,
+    "anomaly_score": 0.4862,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  },
+  "94": {
+    "engine_id": 94,
+    "predicted_rul": 70.2,
+    "anomaly_score": 0.2452,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "95": {
+    "engine_id": 95,
+    "predicted_rul": 108.8,
+    "anomaly_score": 0.2232,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "96": {
+    "engine_id": 96,
+    "predicted_rul": 138.4,
+    "anomaly_score": 0.1993,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "97": {
+    "engine_id": 97,
+    "predicted_rul": 73.7,
+    "anomaly_score": 0.1951,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "98": {
+    "engine_id": 98,
+    "predicted_rul": 70.8,
+    "anomaly_score": 0.2211,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "99": {
+    "engine_id": 99,
+    "predicted_rul": 108.7,
+    "anomaly_score": 0.1953,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": false,
+    "severity": "healthy"
+  },
+  "100": {
+    "engine_id": 100,
+    "predicted_rul": 19.4,
+    "anomaly_score": 1.8876,
+    "anomaly_threshold": 0.2483,
+    "is_anomalous": true,
+    "severity": "critical"
+  }
+}

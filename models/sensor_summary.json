@@ -1,0 +1,5802 @@
+{
+  "1": [
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.954
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.917
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.887
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.857
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.828
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.811
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.793
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.77
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.77
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.735
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.69
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.688
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.659
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.535
+    }
+  ],
+  "2": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.779
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.742
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.284
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.256
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.253
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.238
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.201
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.201
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.197
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.193
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.176
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.082
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.062
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.012
+    }
+  ],
+  "3": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.767
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.753
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.676
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.636
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.491
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.437
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.423
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.411
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.407
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.406
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.389
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.261
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.208
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.101
+    }
+  ],
+  "4": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.583
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.522
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.343
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.285
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.17
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.133
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.109
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.084
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.057
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.052
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.043
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.03
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.028
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.011
+    }
+  ],
+  "5": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.66
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.583
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.32
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.29
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.205
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.127
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.108
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.079
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.077
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.034
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.023
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.011
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.009
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "6": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.57
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.53
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.195
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.172
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.165
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.155
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.138
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.114
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.106
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.067
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.054
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.035
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.032
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.02
+    }
+  ],
+  "7": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.948
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.869
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.831
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.821
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.804
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.756
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.707
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.677
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.667
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.658
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.618
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.394
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.082
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.059
+    }
+  ],
+  "8": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.719
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.714
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.564
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.366
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.308
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.196
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.191
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.161
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.151
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.136
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.117
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.066
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.042
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.002
+    }
+  ],
+  "9": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.659
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.589
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.272
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.239
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.226
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.167
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.163
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.145
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.109
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.089
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.035
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.026
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.024
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "10": [
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.622
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.526
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.437
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.437
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.393
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.354
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.348
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.338
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.325
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.314
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.255
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.237
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.115
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.047
+    }
+  ],
+  "11": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.263
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.177
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.813
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.809
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.361
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.343
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.335
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.288
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.201
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.146
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.146
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.129
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.11
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.104
+    }
+  ],
+  "12": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.756
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.734
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.664
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.626
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.59
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.572
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.561
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.539
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.529
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.502
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.381
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.334
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.266
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.153
+    }
+  ],
+  "13": [
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.475
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.458
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.456
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.437
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.413
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.393
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.351
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.326
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.313
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.269
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.263
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.244
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.115
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.058
+    }
+  ],
+  "14": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.315
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.22
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.804
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.803
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.28
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.225
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.176
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.077
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.071
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.049
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.039
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.038
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.015
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.006
+    }
+  ],
+  "15": [
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.923
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.898
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.854
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.838
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.833
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.826
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.819
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.721
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.687
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.627
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.545
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.414
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.377
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.365
+    }
+  ],
+  "16": [
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.834
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.833
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.804
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.79
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.762
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.759
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.742
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.711
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.69
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.649
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.588
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.526
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.295
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.137
+    }
+  ],
+  "17": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.084
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.0
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.799
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.667
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.314
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.168
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.158
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.136
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.1
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.069
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.063
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.055
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.028
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.017
+    }
+  ],
+  "18": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.324
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.321
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.226
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.179
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.179
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.162
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.154
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.101
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.091
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.071
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.045
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.028
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.004
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.002
+    }
+  ],
+  "19": [
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.703
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.642
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.636
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.613
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.589
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.588
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.544
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.531
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.494
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.493
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.466
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.445
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.238
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.117
+    }
+  ],
+  "20": [
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.168
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.026
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.009
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.008
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.974
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.944
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.921
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.892
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.868
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.855
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.854
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.779
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.087
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.003
+    }
+  ],
+  "21": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.005
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.906
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.805
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.732
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.728
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.682
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.662
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.632
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.628
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.611
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.609
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.547
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.502
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.474
+    }
+  ],
+  "22": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.763
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.75
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.495
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.416
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.359
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.328
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.325
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.324
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.312
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.305
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.249
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.248
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.035
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.023
+    }
+  ],
+  "23": [
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -1.044
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.005
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.985
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.954
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.937
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.904
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.847
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.816
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.801
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.77
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.744
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.744
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.648
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.531
+    }
+  ],
+  "24": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 2.707
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 2.65
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.662
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.38
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.378
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.337
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.324
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.277
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.261
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.231
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.196
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.19
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.188
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.023
+    }
+  ],
+  "25": [
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.853
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.771
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.712
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.696
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.672
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.671
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.656
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.613
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.61
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.604
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.596
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.574
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.511
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.438
+    }
+  ],
+  "26": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.985
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.977
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.959
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.911
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.901
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.896
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.877
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.824
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.8
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.743
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.74
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.731
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.195
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.079
+    }
+  ],
+  "27": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.603
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.598
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.598
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.566
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.527
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.486
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.468
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.45
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.398
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.368
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.355
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.349
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.257
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.239
+    }
+  ],
+  "28": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.393
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.383
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.212
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.205
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.177
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.148
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.137
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.101
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.091
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.091
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.08
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.079
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.05
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.026
+    }
+  ],
+  "29": [
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.545
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.535
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.526
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.41
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.376
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.371
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.366
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.352
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.325
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.298
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.287
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.272
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.213
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.117
+    }
+  ],
+  "30": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.714
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.642
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.639
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.426
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.343
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.23
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.228
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.226
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.205
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.2
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.188
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.144
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.136
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.026
+    }
+  ],
+  "31": [
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.348
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.305
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.293
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.281
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.202
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.199
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.13
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.115
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.983
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.963
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.907
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.823
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.778
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.573
+    }
+  ],
+  "32": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.23
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.122
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.044
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.999
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.682
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.622
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.472
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.434
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.422
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.389
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.385
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.357
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.351
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.267
+    }
+  ],
+  "33": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.342
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.318
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.281
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.249
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.223
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.174
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.166
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.156
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.134
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.112
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.107
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.058
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.04
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.036
+    }
+  ],
+  "34": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.494
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.402
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.325
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.279
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.22
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.164
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.043
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.998
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.991
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.876
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.791
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.728
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.712
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.639
+    }
+  ],
+  "35": [
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.561
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.454
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.45
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.377
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.357
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.353
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.309
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.305
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.299
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.248
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.241
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 1.148
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.396
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.263
+    }
+  ],
+  "36": [
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.272
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.154
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.101
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.079
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.068
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.061
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.02
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.991
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.944
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.919
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.833
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.761
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.281
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.165
+    }
+  ],
+  "37": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.916
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.899
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.517
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.446
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.307
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.257
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.21
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.198
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.169
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.136
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.122
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.113
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.1
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.068
+    }
+  ],
+  "38": [
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.66
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.631
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.621
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.541
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.509
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.507
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.471
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.4
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.385
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.378
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.279
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.206
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.197
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.17
+    }
+  ],
+  "39": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.133
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.069
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.061
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.054
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.042
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -1.018
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.017
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 1.006
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.981
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.97
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.917
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.911
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.298
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.073
+    }
+  ],
+  "40": [
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.069
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.989
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.989
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.967
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.96
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.921
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.919
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.913
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.883
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.771
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.752
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.735
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.077
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "41": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.197
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.072
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.752
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.698
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.381
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.317
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.167
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.128
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.119
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.075
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.066
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.062
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.053
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "42": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.486
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.351
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.32
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.207
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.971
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.849
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.756
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.716
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.714
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.703
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.658
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.587
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.559
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.54
+    }
+  ],
+  "43": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.476
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.458
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.41
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.376
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.273
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.205
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.19
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.159
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.108
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.1
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.098
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.081
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.035
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.03
+    }
+  ],
+  "44": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.541
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.533
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.51
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.499
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.493
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.464
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.452
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.417
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.335
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.329
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.313
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.287
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.221
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.192
+    }
+  ],
+  "45": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.446
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.311
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.266
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.247
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.232
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.229
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.223
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.202
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.193
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.191
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.167
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.164
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.153
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.101
+    }
+  ],
+  "46": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.656
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.609
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.487
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.439
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.432
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.42
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.379
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.337
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.251
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.251
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.217
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.209
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.051
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.03
+    }
+  ],
+  "47": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.129
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.076
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.758
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.658
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.278
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.233
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.219
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.14
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.128
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.068
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.05
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.026
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.021
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.011
+    }
+  ],
+  "48": [
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.54
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.436
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.419
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.375
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.373
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.346
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.343
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.343
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.256
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.252
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.219
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.216
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.203
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.197
+    }
+  ],
+  "49": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.432
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.323
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.117
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.056
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.055
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.048
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.016
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.014
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.886
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.773
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.772
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.746
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.643
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.548
+    }
+  ],
+  "50": [
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.808
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.718
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.712
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.683
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.678
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.65
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.595
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.572
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.56
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.549
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.523
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.385
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.153
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.048
+    }
+  ],
+  "51": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.651
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.648
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.48
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.218
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.2
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.196
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.195
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.162
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.16
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.132
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.103
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.093
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.089
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.028
+    }
+  ],
+  "52": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.463
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.374
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.6
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.587
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.238
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.221
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.208
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.189
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.155
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.154
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.143
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.056
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.021
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.016
+    }
+  ],
+  "53": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.22
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.207
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.369
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.366
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.347
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.322
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.316
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.302
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.281
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.239
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.205
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.163
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.102
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.1
+    }
+  ],
+  "54": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.286
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.204
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.169
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.154
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.14
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.064
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.046
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -1.023
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.952
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.932
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.901
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.688
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.216
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.021
+    }
+  ],
+  "55": [
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.821
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.756
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.74
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.709
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.637
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.568
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.54
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.509
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.488
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.456
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.416
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.389
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.356
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.275
+    }
+  ],
+  "56": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.794
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.764
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.527
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.401
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.292
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.218
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.203
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.201
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.156
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.101
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.069
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.965
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.897
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.896
+    }
+  ],
+  "57": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.704
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.681
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.526
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.31
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.277
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.221
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.196
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.179
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.165
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.134
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.132
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.123
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.076
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.028
+    }
+  ],
+  "58": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.693
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.634
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.549
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.515
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.464
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.456
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.45
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.444
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.439
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.427
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.377
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.307
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.292
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.101
+    }
+  ],
+  "59": [
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.128
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.104
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.081
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.065
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.994
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.981
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.978
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.956
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.872
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.868
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.836
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.693
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.377
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.25
+    }
+  ],
+  "60": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.495
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.481
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.212
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.155
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.15
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.144
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.123
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.121
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.109
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.085
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.074
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.05
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.023
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.008
+    }
+  ],
+  "61": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.606
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.502
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.475
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.431
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.427
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.393
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.372
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.359
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.357
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.346
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.308
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.294
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.152
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.07
+    }
+  ],
+  "62": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.894
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.835
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.693
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.577
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.296
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.287
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.211
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.158
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.127
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.119
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.107
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.087
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.077
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.04
+    }
+  ],
+  "63": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.831
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.773
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.73
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.717
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.563
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.44
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.372
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.321
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.251
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.215
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.207
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.144
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.126
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.028
+    }
+  ],
+  "64": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.789
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.781
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.727
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.603
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.59
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.555
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.524
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.521
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.519
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.469
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.464
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.449
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.445
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.371
+    }
+  ],
+  "65": [
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.335
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.332
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.282
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.266
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.219
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.21
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 1.182
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.168
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.111
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -1.068
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.993
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.911
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.254
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.013
+    }
+  ],
+  "66": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.78
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.737
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.048
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.979
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.913
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.9
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.853
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.826
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.789
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.771
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.76
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.729
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.287
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.225
+    }
+  ],
+  "67": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.739
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.723
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.717
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.712
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.704
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.703
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.642
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.632
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.607
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.566
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.565
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.455
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.314
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.2
+    }
+  ],
+  "68": [
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.226
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.218
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.209
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.142
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.112
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.059
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.049
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.035
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.033
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.952
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.911
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.892
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.612
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.431
+    }
+  ],
+  "69": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.806
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.789
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.567
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.52
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.512
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.399
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.388
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.387
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.38
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.351
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.332
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.284
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.044
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.033
+    }
+  ],
+  "70": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.572
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.495
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.277
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.257
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.201
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.166
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.094
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.083
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.077
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.077
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.057
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.032
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.027
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "71": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.962
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.934
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.92
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.897
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.859
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.841
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.782
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.771
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.757
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.618
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.546
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.465
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.171
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.095
+    }
+  ],
+  "72": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.375
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.35
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.348
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.318
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.306
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.304
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.26
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.257
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.244
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.215
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.167
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.148
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.114
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.098
+    }
+  ],
+  "73": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.891
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.862
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.861
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.834
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.818
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.789
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.766
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.707
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.653
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.62
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.598
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.581
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.493
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.333
+    }
+  ],
+  "74": [
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.254
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.205
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.204
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.179
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.173
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.169
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.168
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.1
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.089
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.053
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.032
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.021
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.008
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.005
+    }
+  ],
+  "75": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.774
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.623
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.587
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.583
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.55
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.541
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.526
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.523
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.493
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.46
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.437
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.402
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.367
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.19
+    }
+  ],
+  "76": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 1.507
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 1.378
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.189
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.165
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 1.137
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.112
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.098
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.093
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.089
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.071
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.937
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.934
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.536
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.32
+    }
+  ],
+  "77": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.916
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.892
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.809
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.758
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.525
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.478
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.393
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.389
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.387
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.385
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.381
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.369
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.297
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.13
+    }
+  ],
+  "78": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.499
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.47
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.47
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.442
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.417
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -1.313
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.302
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.298
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.29
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 1.275
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -1.255
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -1.248
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.111
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.091
+    }
+  ],
+  "79": [
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.817
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.758
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.588
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.451
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.42
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.397
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.374
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.321
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.312
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.275
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.275
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.26
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.053
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.028
+    }
+  ],
+  "80": [
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.351
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.239
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.187
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.178
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.171
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.153
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.097
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.096
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.093
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.077
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.075
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.072
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.042
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.001
+    }
+  ],
+  "81": [
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.554
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.504
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.408
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.324
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.303
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.281
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 1.229
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.193
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.183
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.146
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.059
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.005
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.472
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.278
+    }
+  ],
+  "82": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.221
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.143
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.138
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.112
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.06
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.866
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.847
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.842
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.774
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.768
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.664
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.653
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.641
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.446
+    }
+  ],
+  "83": [
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.644
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.64
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.638
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.623
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.574
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.559
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.552
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.548
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.48
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.469
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.456
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.416
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.296
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.246
+    }
+  ],
+  "84": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.618
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.589
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.587
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.568
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.437
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.411
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.402
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.4
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.393
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.375
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.369
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.34
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.301
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.202
+    }
+  ],
+  "85": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.753
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.707
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.388
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.285
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.275
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.244
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.24
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.179
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.169
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.121
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.117
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.057
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.024
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.007
+    }
+  ],
+  "86": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.427
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.33
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.326
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.311
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.295
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.294
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.248
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.236
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.224
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.192
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.137
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.057
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.047
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.045
+    }
+  ],
+  "87": [
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.144
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -1.069
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.985
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.984
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.947
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.934
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.929
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.906
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.904
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.892
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.846
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.818
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.183
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.115
+    }
+  ],
+  "88": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.129
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -1.113
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.656
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.559
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.209
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.162
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.134
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.117
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.114
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.102
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.092
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.081
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.075
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.035
+    }
+  ],
+  "89": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.672
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.615
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.299
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.207
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.201
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.171
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.151
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.139
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.099
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.097
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.063
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.017
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.015
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.011
+    }
+  ],
+  "90": [
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.789
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.693
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.68
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.661
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.645
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.541
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.533
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.521
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.484
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.458
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.423
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.42
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.355
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.341
+    }
+  ],
+  "91": [
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.574
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.564
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.383
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.275
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.195
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -1.174
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.133
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 1.049
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.043
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.024
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.893
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.854
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.853
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.691
+    }
+  ],
+  "92": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 1.503
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 1.351
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -1.222
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -1.183
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 1.181
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 1.136
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -1.108
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -1.075
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 1.075
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 1.048
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.984
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.871
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.83
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.709
+    }
+  ],
+  "93": [
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.871
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.854
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.813
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.794
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.777
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.723
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.686
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.682
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.653
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.574
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.568
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.531
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.43
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.326
+    }
+  ],
+  "94": [
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": -0.6
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": -0.582
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.582
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.474
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.471
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.467
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.464
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.427
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.417
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.412
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.356
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.355
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.284
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.222
+    }
+  ],
+  "95": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.753
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.741
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.736
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.684
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.651
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.626
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.624
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.61
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.587
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.57
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.545
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.515
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.429
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.418
+    }
+  ],
+  "96": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.169
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.164
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.095
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.094
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.068
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.04
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.024
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -1.011
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.927
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.911
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.909
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.746
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.253
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.127
+    }
+  ],
+  "97": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.869
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.774
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.753
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -0.69
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -0.634
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.614
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.609
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -0.607
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.604
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 0.476
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.461
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.438
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.385
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.179
+    }
+  ],
+  "98": [
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.219
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.188
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": 0.169
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": -0.121
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.116
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": -0.103
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 0.081
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -0.05
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.047
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.044
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": 0.044
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.035
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.029
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.007
+    }
+  ],
+  "99": [
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -1.385
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -1.369
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": -1.363
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 1.277
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 1.277
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": -1.216
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": 1.199
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": -1.177
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": -1.071
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": 1.034
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": -0.962
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": -0.957
+    },
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 0.221
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 0.012
+    }
+  ],
+  "100": [
+    {
+      "sensor": "sensor_14",
+      "avg_scaled_value": 2.768
+    },
+    {
+      "sensor": "sensor_9",
+      "avg_scaled_value": 2.694
+    },
+    {
+      "sensor": "sensor_13",
+      "avg_scaled_value": -0.739
+    },
+    {
+      "sensor": "sensor_8",
+      "avg_scaled_value": -0.714
+    },
+    {
+      "sensor": "sensor_3",
+      "avg_scaled_value": 0.466
+    },
+    {
+      "sensor": "sensor_4",
+      "avg_scaled_value": 0.402
+    },
+    {
+      "sensor": "sensor_17",
+      "avg_scaled_value": 0.402
+    },
+    {
+      "sensor": "sensor_15",
+      "avg_scaled_value": 0.322
+    },
+    {
+      "sensor": "sensor_2",
+      "avg_scaled_value": 0.299
+    },
+    {
+      "sensor": "sensor_11",
+      "avg_scaled_value": 0.23
+    },
+    {
+      "sensor": "sensor_20",
+      "avg_scaled_value": -0.212
+    },
+    {
+      "sensor": "sensor_21",
+      "avg_scaled_value": -0.118
+    },
+    {
+      "sensor": "sensor_12",
+      "avg_scaled_value": 0.097
+    },
+    {
+      "sensor": "sensor_7",
+      "avg_scaled_value": 0.033
+    }
+  ]
+}
