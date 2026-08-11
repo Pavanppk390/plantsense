@@ -105,3 +105,4 @@ pip install -r requirements.txt
 ## Author
 
 Pavan Kumar Punna — Electronics and communication Engineer (IIT-ISM Dhanbad) transitioning into Data Science, with prior operational experience in thermal power plant equipment monitoring and predictive maintenance ([Jindal Power Limited](https://www.linkedin.com/in/pavan-kumarpunna-50535319b)).
+
