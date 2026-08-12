@@ -1,4 +1,4 @@
-# PlantSense
+# PlantSense| (https://plantsense.streamlit.app/)
 
 **Agentic predictive maintenance for turbofan engines** — combining deep learning (PyTorch LSTM + TensorFlow Autoencoder) with a RAG-grounded, tool-using LLM agent layer (LangGraph) for interactive diagnostics and autonomous shift reporting.
 
